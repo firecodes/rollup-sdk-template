@@ -1,0 +1,7 @@
+
+# 忽略文件夹:
+build
+dist
+# 忽略某一类型文件:
+node_modules
+.github
